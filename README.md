@@ -1,6 +1,6 @@
-<img src="https://github.com/AshishKumar33/AshishKumar33/blob/ac5650e20b6527c1200fab61c3e33e3050994284/header.png" alt="bootstrap" width="100%" height="100%"/>
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">SDET Intern Tiket.com</h3>
 
 <!--
 **AshishKumar33/AshishKumar33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
