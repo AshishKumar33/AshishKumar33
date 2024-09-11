@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center">SDET Intern Tiket.com</h3>
+<h3 align="center">SDET Tiket.com</h3>
 <h3 align="center">A passionate full stack developer from India</h3>
 ⚡ Fun fact **A journey of a thousand miles begins with a single step**
 
